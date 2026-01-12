@@ -296,5 +296,5 @@ class PagingUtilsClass {
   }
 }
 
+export const PagingUtils = new PagingUtilsClass();
 
-const PagingUtils = new PagingUtilsClass();
