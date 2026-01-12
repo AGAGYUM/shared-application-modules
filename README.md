@@ -12,7 +12,7 @@ designed to improve code reuse, consistency, and maintainability.
 This repository currently includes a shared JavaScript utility module extracted from real-world internal enterprise systems.
 The module is designed to standardize common UI behaviors, reduce duplicated code, and improve maintainability across multiple applications.
 
-### commonUtils.js
+### commonUtils.module.js
 
 A collection of reusable JavaScript utilities organized by responsibility.
 
