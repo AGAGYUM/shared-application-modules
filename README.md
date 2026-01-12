@@ -1,3 +1,5 @@
+📄 [한국어 README 보기](README_KO.md)
+
 # shared-application-modules
 
 This repository contains shared JavaScript and Java modules extracted from real-world internal enterprise systems,
