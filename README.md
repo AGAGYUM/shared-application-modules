@@ -1,2 +1,4 @@
 # shared-application-modules
-Shared JavaScript and Java utility modules used across internal enterprise systems, focusing on reusability, maintainability, and consistent coding patterns.
+
+This repository contains shared JavaScript and Java modules extracted from real-world internal enterprise systems,
+designed to improve code reuse, consistency, and maintainability.
